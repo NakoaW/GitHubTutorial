@@ -1,3 +1,3 @@
-name: Your Name
-role: Mentor, VP, Lead, Veteran or Rookie
-year: Year on team
+name: Nakoa Wai
+role: Rookie
+year: 1
